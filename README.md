@@ -9,23 +9,26 @@ I am mainly involved in prodution and research project both in groups and indepe
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
-Since a couple of years I have joined the Web3 world, the personal finance and investment sectors. For that reason I have been working on an application to track your earning and expeces as well as your investiment both in the tradition and decentralized field. 
-The SW is python programmed whereas kivy is used for the user interface. I plan to deliver a first alpha in the next months.
+Since a couple of years I have been interested in the Web3 world, the personal finance and investment sectors. For that reason I have been working on an application to track the earnings and expences of a user as well as his investiments. The SW is python programmed and kivy is used for the user interface. I plan to deliver a first alpha in the next months.
 
 Beside that, I am slowly falling in love with the Rust programming language and the new paradigm and point of view it is trying to bring to life.
 
 ## Repository objective
 
 Little by little the repo will become a reference full of examples and documentation for:
-- Matlab Simulink Stateflow, as well as the best practises to follow when programming according to a MBD apprach. (DO178C, DO331, MISCRA C)
-- Documentation and examples with python and its libraris such as Kivy, pillow, beautifoulSoup, mysqllite3, Mongodb ect.
+- Matlab Simulink Stateflow and best practises to follow when programming according to a model based design apprach.
+- Documentation and examples with python and its libraris such as Kivy, pillow, beautifoulSoup, mysqllite3, Mongodb.
 - Documentation and examples with C/C++ and its libraries. I would love to focus on ROS and UE5, let's see what I will be able to do!
-- Documentation and examples with Rust. I will try to write Smart Contract on rust developed chains: Elrond, Near Protocol, Solana for example.
+- Documentation and examples with Rust. I will try to write Smart Contract on rust developed chains: Elrond, Near Protocol, Solana ect.
 
 ## Social
 <div id="badges">
+    <a href="https://pasqualebuonocore.wixsite.com/pasq">
+    <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/pasquale-buonocore-0a152515b/">
-    <img src=" https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
   </a>
 </div>
 
