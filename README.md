@@ -1,20 +1,38 @@
 ## 🚀 About Me
 
-🎓 I am Pasquale Buonocore, a **Mechatronics Engineer** living his third working year experience as **model based designer** software designer, tester and embedded.
-I daily use Matlab-Simulink-StateFlow as main programming language, in addition to C/C++ and python.
+🎓 Welcome to my Github!
 
-I am also in love with programming and this repository was born to perse such passion. In fact, you can easily find out that the repositories I am mostly active on are:
+I am Pasquale Buonocore, a **Mechatronics Engineer** living his third working year experience as **model based embedded software designer** and **tester engineer**.
+I am mainly involved in prodution and research project both in groups and independently, which requires a variety set of skill randing from Matlab/Simulink/StateFlow to C/C++ and python programming languages! Follow me on my social for more!
 
-Since a couple of years I have joined the Web3 world, investment and personal finance and for that reason I have been working on an application to track your earning and expeces as well as your investiment both in the tradition and decentralized field. I am programming it using python and kivy for the UI. MySql and MongoDB as databases.
-I plan to deliver a first alpha in the next months.
+## 🚀 My free time activities
 
-Onther subject I would love to deepen is of course the Rust programming language, which seems to deal with the classical programming problems starting from a different point of View. 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
+Since a couple of years I have joined the Web3 world, the personal finance and investment sectors. For that reason I have been working on an application to track your earning and expeces as well as your investiment both in the tradition and decentralized field. 
+The SW is python programmed whereas kivy is used for the user interface. I plan to deliver a first alpha in the next months.
+
+Beside that, I am slowly falling in love with the Rust programming language and the new paradigm and point of view it is trying to bring to life.
 
 ## 🛠️ Repository objective
 
 Little by little the repo will become a reference full of examples and documentation for:
-- Matlab Simulink Stateflow, as well as the best practise to follow when programming according to a MBD apprach.
-- Documentation and examples for python and its library such as Kivy, pillow, beautifoulSoup, mysqllite3, Mongodb ect
-- Documentation and examples for C/C++
-- Documentation and examples for Rust
+- Matlab Simulink Stateflow, as well as the best practises to follow when programming according to a MBD apprach. (DO178C, DO331, MISCRA C)
+- Documentation and examples with python and its libraris such as Kivy, pillow, beautifoulSoup, mysqllite3, Mongodb ect.
+- Documentation and examples with C/C++ and its libraries. I would love to focus on ROS and UE5, let's see what I will be able to do!
+- Documentation and examples with Rust. I will try to write Smart Contract on rust developed chains: Elrond, Near Protocol, Solana for example.
 
+## 🛠️ Social
+<div id="badges">
+  <a href="https://pasqualebuonocore.wixsite.com/pasq">
+      https://img.shields.io/badge/WEBSITE-green?style=for-the-badge
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pasquale-buonocore-0a152515b/">
+      https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=Pasquale-Buonocore&style=flat-square&color=blue" alt=""/>
