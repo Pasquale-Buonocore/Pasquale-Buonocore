@@ -9,7 +9,7 @@ Since a couple of years, I have been interested in the Web3 world, the personal 
 
 Besides that, I am slowly falling in love with the Rust programming language and the new paradigm and point of view it is trying to bring to life when programming embedded systems.
 
-## Repository objective
+## :hammer_and_wrench: Repository objective
 
 Little by little the repo will become a reference full of examples and documentation for:
 - Matlab Simulink Stateflow and best practices to follow when programming according to a model based design approach.
@@ -17,7 +17,7 @@ Little by little the repo will become a reference full of examples and documenta
 - Documentation and examples with C/C++ and its libraries. I would love to focus on ROS and UE5, let's see what I will be able to do!
 - Documentation and examples with Rust. I will try to write Smart Contract on rust developed chains: Elrond, Near Protocol, Solana ect.
 
-## Social
+## :man_technologist: Social
 <div id="badges">
     <a href="https://pasqualebuonocore.wixsite.com/pasq">
     <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge"/>
