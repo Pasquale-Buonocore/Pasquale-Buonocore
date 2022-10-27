@@ -14,7 +14,7 @@ Besides that, I am slowly falling in love with the Rust programming language and
 Little by little the repo will become a reference full of examples and documentation for:
 - Matlab Simulink Stateflow and best practices to follow when programming according to a model based design approach.
 - Documentation and examples with python and its libraries such as Kivy, pillow, beautifoulSoup, mysqllite3, Mongodb.
-- Documentation and examples with C/C++ and its libraries. I would love to focus on ROS and UE5 (robotics), let's see what I will be able to do!
+- Documentation and examples with C/C++ and its libraries. I would love to focus on ROS, UE5 and robotics!
 - Documentation and examples with Rust. I will try to write Smart Contract on rust developed chains: Elrond, Near Protocol, Solana ect.
 
 ## :man_technologist: Social
