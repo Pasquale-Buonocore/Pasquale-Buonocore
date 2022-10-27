@@ -24,10 +24,6 @@ Little by little the repo will become a reference full of examples and documenta
 
 ## Social
 <div id="badges">
-  <a href="https://pasqualebuonocore.wixsite.com/pasq">
-    <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge"/>
-  </a>
-  
   <a href="https://www.linkedin.com/in/pasquale-buonocore-0a152515b/">
     <img src=" https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
   </a>
