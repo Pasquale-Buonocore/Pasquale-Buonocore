@@ -4,10 +4,7 @@ I am Pasquale Buonocore, a **Mechatronics Engineer** living his third working ye
 I am mainly involved in production and research projects both in groups and independently, which requires a variety set of skills ranging from Matlab/Simulink/StateFlow to C/C++ and python programming languages!
 
 ## :zap: My free time activities
-
-Since a couple of years, I have been interested in the Web3 world, the personal finance and investment sectors. For that reason I have been working on an application to track the earnings and expenses of a user as well as his investments. The SW is python programmed and kivy is used for the user interface.
-
-Besides that, I am slowly falling in love with the Rust programming language and the new paradigm it is trying to bring to life when programming embedded systems.
+I am slowly falling in love with the Rust programming language and the new paradigm it is trying to bring to life when programming embedded systems.
 
 ## :hammer_and_wrench: Repository objective
 
