@@ -29,17 +29,6 @@ My interests span the entire embedded stack: from electronics and microcontrolle
 
 This GitHub profile is my technical laboratory and knowledge base. It contains practical examples, reusable software components, experiments and study material about embedded systems.
 
-## 📌 Featured projects
-
-| Repository | Focus |
-| --- | --- |
-| **QEMU-Raspberry-PI3B** | Raspberry Pi 3B emulation and low-level experimentation using QEMU |
-| **Yocto-Project-RaspberryPi3B** | Creation and customization of Embedded Linux images with the Yocto Project |
-| **Electronics_PCB_Design** | Electronics exercises and PCB design projects developed with Altium Designer |
-| **FreeRTOS-vs-Baremetal** | Implementation and quantitative comparison of the same application using FreeRTOS and a custom bare-metal architecture |
-| **scheduler-lib** | Development of a reusable cooperative scheduler library written in C |
-| **custom-logic-analyzer** | Hardware and software development of a custom logic analyzer for UART, SPI and I²C |
-
 ## 🧰 Technologies and tools
 
 `C` · `C++` · `DO-178C` · `MATLAB` · `Simulink` · `Stateflow` · `Simulink Requirements` · `MIL/SIL/PIL/HIL` · `Speedgoat` · `FreeRTOS` · `Embedded Linux` · `Yocto` · `QEMU` · `Git` · `Altium Designer` · `ROS`
