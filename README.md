@@ -44,19 +44,6 @@ This GitHub profile is my technical laboratory and knowledge base. It contains p
 
 `C` · `C++` · `DO-178C` · `MATLAB` · `Simulink` · `Stateflow` · `Simulink Requirements` · `MIL/SIL/PIL/HIL` · `Speedgoat` · `FreeRTOS` · `Embedded Linux` · `Yocto` · `QEMU` · `Git` · `Altium Designer` · `ROS`
 
-## 🤖 Back to robotics
-
-Robotics played an important role in my education and is a field I would like to explore again.
-
-My long-term goal is to bring together **real-time embedded development, control systems, electronics, Embedded Linux and ROS**, applying the engineering discipline developed in safety-critical software to increasingly complex robotic systems.
-
----
-
-> I believe the best way to learn embedded systems is to **build, measure, break and improve them**.
-
-This profile documents that journey.
-
-
 ## :man_technologist: Social
 <div id="badges">
     <a href="https://pasqualebuonocore.wixsite.com/pasq">
