@@ -2,9 +2,7 @@
 
 ### Mechatronics Engineer · Embedded Software Engineer
 
-I am a Mechatronics Engineer with several years of professional experience in **embedded software development**.
-
-I currently work on **safety-critical embedded systems**, developing software in **C/C++** and following engineering processes based on **DO-178C**.
+I am a Mechatronics Engineer with several years of professional experience in **embedded software development**. I currently work on **safety-critical embedded systems**, developing software in **C/C++** and following engineering processes based on **DO-178C**.
 
 An important part of my experience is **Model-Based Design and verification** using the MATLAB and Simulink ecosystem, including **MATLAB, Simulink, Stateflow and Simulink Requirements**. I work across **MIL, SIL, PIL and HIL** validation levels, including real-time Hardware-in-the-Loop testing with **Speedgoat** platforms.
 
@@ -24,10 +22,6 @@ My interests span the entire embedded stack: from electronics and microcontrolle
 - **Electronics and PCB design**
 - Communication protocols, concurrency and interrupt management
 - Embedded debugging, measurement and test tools
-
-## 🚀 What you will find here
-
-This GitHub profile is my technical laboratory and knowledge base. It contains practical examples, reusable software components, experiments and study material about embedded systems.
 
 ## 🧰 Technologies and tools
 
