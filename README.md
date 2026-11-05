@@ -4,7 +4,7 @@ An important part of my experience is **Model-Based Design and verification** us
 
 My interests span the entire embedded stack: from electronics and microcontrollers to real-time software architectures, operating systems, integration, verification and hardware-based testing.
 
-## 🔧 Main interests
+### Main interests
 
 - **Safety-critical embedded software** and high-integrity development processes
 - **DO-178C** software lifecycle, traceability, verification and testing
@@ -19,7 +19,7 @@ My interests span the entire embedded stack: from electronics and microcontrolle
 - Communication protocols, concurrency and interrupt management
 - Embedded debugging, measurement and test tools
 
-## 🧰 Technologies and tools
+### Technologies and tools
 
 `C` · `C++` · `DO-178C` · `MATLAB` · `Simulink` · `Stateflow` · `Simulink Requirements` · `MIL/SIL/PIL/HIL` · `Speedgoat` · `FreeRTOS` · `Embedded Linux` · `Yocto` · `QEMU` · `Git` · `Altium Designer` · `ROS`
 
