@@ -6,18 +6,13 @@ My interests span the entire embedded stack: from electronics and microcontrolle
 
 ### Main interests
 
-- **Safety-critical embedded software** and high-integrity development processes
-- **DO-178C** software lifecycle, traceability, verification and testing
+- **DO-178C Safety-critical embedded software** and high-integrity development processes
 - **Real-Time Operating Systems**, with a particular focus on FreeRTOS
 - **Bare-metal development**, cooperative schedulers and cyclic executives
 - **Embedded Linux**, the Yocto Project and system emulation with QEMU
-- **C and C++** for resource-constrained and real-time platforms
+- **C, Rust and C++** for resource-constrained and real-time platforms
 - **Model-Based Design** with the MATLAB, Simulink and Stateflow ecosystem
 - **MIL, SIL, PIL and HIL** verification workflows
-- Real-time **HIL testing with Speedgoat**
-- **Electronics and PCB design**
-- Communication protocols, concurrency and interrupt management
-- Embedded debugging, measurement and test tools
 
 ### Technologies and tools
 
