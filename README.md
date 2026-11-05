@@ -1,7 +1,3 @@
-# Hi there, I'm Pasquale 👋
-
-### Mechatronics Engineer · Embedded Software Engineer
-
 I am a Mechatronics Engineer with several years of professional experience in **embedded software development**. I currently work on **safety-critical embedded systems**, developing software in **C/C++** and following engineering processes based on **DO-178C**.
 
 An important part of my experience is **Model-Based Design and verification** using the MATLAB and Simulink ecosystem, including **MATLAB, Simulink, Stateflow and Simulink Requirements**. I work across **MIL, SIL, PIL and HIL** validation levels, including real-time Hardware-in-the-Loop testing with **Speedgoat** platforms.
