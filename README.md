@@ -1,32 +1,49 @@
-I am a Mechatronics Engineer with several years of professional experience in **embedded software development**. I currently work on **safety-critical embedded systems**, developing software in **C/C++** and following engineering processes based on **DO-178C**.
+# Pasquale Buonocore
 
-An important part of my experience is **Model-Based Design and verification** using the MATLAB and Simulink ecosystem, including **MATLAB, Simulink, Stateflow and Simulink Requirements**. I work across **MIL, SIL, PIL and HIL** validation levels, including real-time Hardware-in-the-Loop testing with **Speedgoat** platforms.
+**Embedded Software Engineer | Safety-Critical Systems | Model-Based Development**
 
-My interests span the entire embedded stack: from electronics and microcontrollers to real-time software architectures, operating systems, integration, verification and hardware-based testing.
+I am a **Mechatronics Engineer** specializing in embedded software, with experience across aerospace, industrial instrumentation, and robotics research.
 
-### Main interests
+I currently work at **Leonardo** as an **Embedded Software Project Engineering Lead**, leading development of an **airborne embedded software product** using standard and model-based development processes aligned with **DO-178C/DO-331**.
 
-- **DO-178C Safety-critical embedded software** and high-integrity development processes
-- **Real-Time Operating Systems**, with a particular focus on FreeRTOS
-- **Bare-metal development**, cooperative schedulers and cyclic executives
-- **Embedded Linux**, the Yocto Project and system emulation with QEMU
-- **C, Rust and C++** for resource-constrained and real-time platforms
-- **Model-Based Design** with the MATLAB, Simulink and Stateflow ecosystem
-- **MIL, SIL, PIL and HIL** verification workflows
+My background combines **C/C++ firmware development**, **embedded Linux and Rust**, real-time software architectures, requirements engineering, and **MIL/SIL/PIL/HIL verification**. I enjoy working across the hardware/software boundary, from low-level drivers and microcontrollers to system integration and validation.
 
-### Technologies and tools
+### Engineering Focus
 
-`C` · `C++` · `DO-178C` · `MATLAB` · `Simulink` · `Stateflow` · `Simulink Requirements` · `MIL/SIL/PIL/HIL` · `Speedgoat` · `FreeRTOS` · `Embedded Linux` · `Yocto` · `QEMU` · `Git` · `Altium Designer` · `ROS`
+- **Safety-critical software:** requirements-driven development, traceability, verification, and DO-178C/DO-331 processes.
+- **Embedded software architecture:** layered architectures, bare-metal programming, interrupts, peripheral drivers, cooperative schedulers, and cyclic executives.
+- **Model-Based Development:** MATLAB, Simulink, Stateflow, automatic code generation, and model-based verification.
+- **Real-time and control systems:** deterministic execution, hardware/software integration, and embedded control applications.
+- **Verification and integration:** MIL, SIL, PIL, HIL, unit and integration testing, including real-time testing with Speedgoat.
 
-## :man_technologist: Social
-<div id="badges">
-    <a href="https://pasqualebuonocore.wixsite.com/pasq">
-    <img src="https://img.shields.io/badge/WEBSITE-green?style=for-the-badge"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/pasquale-buonocore-0a152515b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge"/>
-  </a>
-</div>
+### Technologies & Tools
 
-<img src="https://komarev.com/ghpvc/?username=Pasquale-Buonocore&style=flat-square&color=blue" alt=""/>
+| Area | Technologies & tools |
+| --- | --- |
+| **Programming** | C, C++, Rust, Python |
+| **Embedded platforms** | ARM Cortex-R, TI Sitara, TI C2000, Zynq, STM32 |
+| **Model-Based Development** | MATLAB, Simulink, Stateflow, Embedded Coder, Simulink Requirements, Simulink Test |
+| **Requirements & assurance** | DO-178C, DO-331, IBM DOORS, requirements traceability |
+| **Verification & testing** | MIL, SIL, PIL, HIL, Speedgoat, Google Test, Unity/CMock |
+| **Development & integration** | Embedded Linux, Yocto Project, Git, CMake, Docker, Code Composer Studio |
+
+### Selected Projects
+
+| Project | Description |
+| --- | --- |
+| [**Scheduler-lib**](https://github.com/Pasquale-Buonocore/Scheduler-lib) | Portable C99 cooperative scheduler for deterministic bare-metal applications. |
+| [**Custom Logic Analyzer**](https://github.com/Pasquale-Buonocore/Custom-logic-analyzer) | Work-in-progress USB logic analyzer, starting with STM32H723-based acquisition and host-side protocol decoding. |
+| [**CrossSense**](https://github.com/Pasquale-Buonocore/CrossSense) | Arduino UNO Q prototype combining offline computer vision with STM32-based pedestrian-crossing control logic. |
+| [**Yocto Project**](https://github.com/Pasquale-Buonocore/Yocto-Project) | Custom Yocto-based Linux image and layer for Raspberry Pi 3B+. |
+| [**Embedded Control Engineering**](https://github.com/Pasquale-Buonocore/Embedded-Control-Engineering) | Learning roadmap covering digital control, PMSM control, sensor fusion, and state estimation. |
+
+### Currently Exploring
+
+- **RTOS and scheduling:** FreeRTOS, timing analysis, and real-time scheduling architectures.
+- **Embedded Linux:** deeper work with Yocto, system integration, and QEMU.
+- **Control engineering:** motor control, digital control, and state estimation.
+- **Hardware/software co-design:** communication interfaces, electronics, and embedded debugging tools.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/pasquale-buonocore/) · [Personal Website](https://pasqualebuonocore.wixsite.com/pasq)
